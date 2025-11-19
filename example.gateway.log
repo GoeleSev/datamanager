@@ -1,0 +1,6 @@
+1 - 2025-11-19 11:37:31 - open_db: opened sensor_db.csv (append)
+2 - 2025-11-19 11:37:32 - insert_sensor: data insertion succeeded
+3 - 2025-11-19 11:37:32 - insert_sensor: data insertion succeeded
+4 - 2025-11-19 11:37:32 - insert_sensor: data insertion succeeded
+5 - 2025-11-19 11:37:37 - insert_sensor: data insertion succeeded
+6 - 2025-11-19 11:37:37 - close_db: closing file
